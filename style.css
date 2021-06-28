@@ -1,0 +1,23 @@
+body{
+    padding: 100px;
+}
+.login-box{
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+}
+.login-area{
+    display: block;
+}
+.transaction-area{
+    display: none;
+}
+.row{
+    color: white;
+}
+.functional-area{
+    color: black;
+}
+.functional-area .col-md-5{
+    box-shadow: 3px 3px 10px gray;
+}
